@@ -26,12 +26,7 @@ The goal is to uncover insights about revenue trends, pricing effectiveness, and
    - Created calculated columns (e.g., *Price per Gram, Discount%*)  
 
 3. **Data Visualization (Power BI):**  
-   Designed a 3-page interactive dashboard with custom navigation buttons and KPI cards:
-   - **🏠 Overview Dashboard** – Revenue, Discount %, Stock Summary  
-   - **💰 Pricing Insights Dashboard** – MRP vs Discounted Price, Avg Discount %, Top Value Products  
-   - **📦 Stock & Inventory Dashboard** – Inventory Weight, Quantity by Category, Out-of-Stock Alerts  
-
-
+  
 📈 Dashboard Pages & Screenshots
 🏠 Page 1: Overview Dashboard
 
@@ -70,13 +65,13 @@ KPI: Out of Stock Count (highlighting missing inventory)
 ---
 
 🗂️ File 
-- <a href= ""> Dataset View
+- <a href= "https://github.com/arnimagoswami-debug/Zepto-Inventory-Pricing-Insights-Dashboard-SQL-Power-BI-"> Dataset View
 ## 📷 Dashboard Preview
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/arnimagoswami-debug/Zepto-Inventory-Pricing-Insights-Dashboard-SQL-Power-BI-)
 ## 📷 Pricing Insights Preview
-![Pricing Insights Preview]()
+![Pricing Insights Preview](https://github.com/arnimagoswami-debug/Zepto-Inventory-Pricing-Insights-Dashboard-SQL-Power-BI-)
 ## 📷 Stock & Inventory Insights Preview
-![Stock & Inventory Insights Preview]()
+![Stock & Inventory Insights Preview](https://github.com/arnimagoswami-debug/Zepto-Inventory-Pricing-Insights-Dashboard-SQL-Power-BI-)
 
 
 ### 🧩 DAX Measures Used
