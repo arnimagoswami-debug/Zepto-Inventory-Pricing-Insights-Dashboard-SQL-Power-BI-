@@ -65,13 +65,13 @@ KPI: Out of Stock Count (highlighting missing inventory)
 ---
 
 🗂️ File 
-- <a href= "https://github.com/arnimagoswami-debug/Zepto-Inventory-Pricing-Insights-Dashboard-SQL-Power-BI-"> Dataset View
+- <a href= "https://github.com/arnimagoswami-debug/Zepto-Inventory-Pricing-Insights-Dashboard-SQL-Power-BI-/blob/main/ZeptoProject.sql"> Dataset View
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](https://github.com/arnimagoswami-debug/Zepto-Inventory-Pricing-Insights-Dashboard-SQL-Power-BI-)
+![Dashboard Screenshot](https://github.com/arnimagoswami-debug/Zepto-Inventory-Pricing-Insights-Dashboard-SQL-Power-BI-/blob/main/Dashboard%20Overview.png)
 ## 📷 Pricing Insights Preview
-![Pricing Insights Preview](https://github.com/arnimagoswami-debug/Zepto-Inventory-Pricing-Insights-Dashboard-SQL-Power-BI-)
+![Pricing Insights Preview](https://github.com/arnimagoswami-debug/Zepto-Inventory-Pricing-Insights-Dashboard-SQL-Power-BI-/blob/main/Pricing%20Insight.png)
 ## 📷 Stock & Inventory Insights Preview
-![Stock & Inventory Insights Preview](https://github.com/arnimagoswami-debug/Zepto-Inventory-Pricing-Insights-Dashboard-SQL-Power-BI-)
+![Stock & Inventory Insights Preview](https://github.com/arnimagoswami-debug/Zepto-Inventory-Pricing-Insights-Dashboard-SQL-Power-BI-/blob/main/Stocks%20Insight.png)
 
 
 ### 🧩 DAX Measures Used
