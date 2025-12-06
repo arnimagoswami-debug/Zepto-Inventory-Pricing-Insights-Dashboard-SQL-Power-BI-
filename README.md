@@ -12,7 +12,7 @@ The goal is to uncover insights about revenue trends, pricing effectiveness, and
 - **Excel** – Data preprocessing and export from SQL  
 - **DAX Measures** – For revenue, discounts, and stock KPIs  
 
----
+--_
 
 ### 🧠 Project Workflow
 1. **Data Extraction (SQL):**  
